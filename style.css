@@ -1,0 +1,42 @@
+
+.container-fluid{
+	background-color:#CFB9B9;
+	color: #8C6666;
+	font-family: "signika";
+}
+.container-fluid .navbar-brand{
+	border-style: double;
+	border-color: #8C6666;
+	padding: 2px 10px 2px 10px;
+	margin-right: 150px;
+	font-style: oblique;
+	font-size: 1.8em;
+}
+.container-fluid .navbar-collapse {
+	font-style: bold;
+	font-size: 1.2em;
+}
+
+.navbar-collapse .nav-item .nav-link{
+	margin: 0px 100px 0px 0px;
+	align-items: center;
+
+}
+
+#carousel{
+
+}
+
+/*.container-fluid .navbar-brand, .container-fluid .navbar-collapse{
+	color: #8C6666;
+	font-family: 'Signika'
+}
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: #8C6666;
+}*/
+
+/*#navbarSupportedContent {
+
+}*/
